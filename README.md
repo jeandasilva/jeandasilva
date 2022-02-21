@@ -12,7 +12,7 @@ I currently work at Silicon Village as a mobile developer📱.
 
 <div align="left">
   <a href="https://github.com/jeandasilva">
-  <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=jeandasilva&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img width="450em" src= "https://github-readme-stats.vercel.app/api?username=jeandasilva&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
 </div>
   
 ## Stacks 💻
@@ -39,7 +39,7 @@ I currently work at Silicon Village as a mobile developer📱.
   
   <div align="left">
     <a href="https://github.com/jeandasilva">
-    <img width="400em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jeandasilva&theme=vision-friendly-dark&layout=compact&langs_count=50" />
+    <img width="450em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jeandasilva&theme=vision-friendly-dark&layout=compact&langs_count=50" />
   </div>
   
   ## Contact me 📧
