@@ -1,5 +1,5 @@
 
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/jeandasilva/894ab3f04cf3ff8e119da779b99410fd/raw/750f167703d8d49767eea92528b1456327038ed5/gitcard.svg"/>
+<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/jeandasilva/894ab3f04cf3ff8e119da779b99410fd/raw/750f167703d8d49767eea92528b1456327038ed5/gitcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jean Carlos da Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandasilva" alt="jeandasilva" alt="Profile views" /> </p>
@@ -12,7 +12,7 @@ I currently work at Silicon Village as a mobile developer📱.
 
 <div align="left">
   <a href="https://github.com/jeandasilva">
-  <img width="530em" src= "https://github-readme-stats.vercel.app/api?username=jeandasilva&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=jeandasilva&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
 </div>
   
 ## Stacks 💻
@@ -39,7 +39,7 @@ I currently work at Silicon Village as a mobile developer📱.
   
   <div align="left">
     <a href="https://github.com/jeandasilva">
-    <img width="530em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jeandasilva&theme=vision-friendly-dark&layout=compact&langs_count=50" />
+    <img width="400em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jeandasilva&theme=vision-friendly-dark&layout=compact&langs_count=50" />
   </div>
   
   ## Contact me 📧
