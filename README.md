@@ -12,27 +12,32 @@ I currently work at Silicon Village as a mobile developer📱.
 
 <div align="left">
   <a href="https://github.com/jeandasilva">
-  <img width="450em" src= "https://github-readme-stats.vercel.app/api?username=jeandasilva&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img width="450em" src= "https://github-readme-stats.vercel.app/api?username=jeandasilva&theme=vision-friendly-dark&include_all_commits=true&count_private=false&show_icons=true" />
 </div>
   
 ## Stacks 💻
   <br/>
   <div text-align="justify">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=3c873a" />
-  <img alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=00000labelColor=FFDC0B" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-000?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+    <img align="center" alt="Jean-Angular" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+    <img align="center" alt="Jean-Dart" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"/>
+    <img align="center" alt="Jean-Firebase" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+    <img align="center" alt="Jean-Flutter" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+    <img align="center" alt="Jean-Git" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+    <img align="center" alt="Jean-GitHub" height="50" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    <img align="center" alt="Jean-HTML5" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+    <img align="center" alt="Jean-CSS3" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+    <img align="center" alt="Jean-Bitbucket" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
+    <img align="center" alt="Jean-Java" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <img align="center" alt="Jean-JavaScript" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="Jean-MYSQL" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="Jean-NodeJS" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+    <img align="center" alt="Jean-Oracle" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+    <img align="center" alt="Jean-PHP" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+    <img align="center" alt="Jean-Postgresql" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img align="center" alt="Jean-Python" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"/>
+    <img align="center" alt="Jean-React" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img align="center" alt="Jean-TypeScript" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="center" alt="Jean-MongoDB" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
     
   </div>
