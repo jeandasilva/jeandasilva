@@ -33,6 +33,8 @@ I currently work at Silicon Village as a mobile developer📱.
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
     
   </div>
   
@@ -51,11 +53,3 @@ I currently work at Silicon Village as a mobile developer📱.
   <a href="https://www.instagram.com/jeancs203/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-carlos-da-silva-a7257312a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<div>
-##Comits
-
-https://github.com/jeandasilva/jeandasilva/blob/output/github-contribution-grid-snake.svg
-</div>
-
- 
