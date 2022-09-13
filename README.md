@@ -54,7 +54,7 @@ I currently work at Silicon Village as a mobile developer📱.
 <div>
 ##Comits
 
-![Snake animation](https://github.com/jeandasilva/jeandasilva/blob/output/github-contribution-grid-snake.svg)
+https://github.com/jeandasilva/jeandasilva/blob/output/github-contribution-grid-snake.svg
 </div>
 
  
